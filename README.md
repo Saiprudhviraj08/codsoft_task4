@@ -1,7 +1,7 @@
 # codsoft_task4
 Welcome to the Rock, Paper, Scissors Game! This is a simple command-line game where you can play Rock, Paper, Scissors against the computer.
 
-How to Play
+1.How to Play
 Run the game script.
 Enter your choice: "rock", "paper", or "scissors".
 The computer will randomly choose one of the three options.

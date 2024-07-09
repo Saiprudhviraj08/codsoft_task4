@@ -1,5 +1,5 @@
 # codsoft_task4
-Rock, Paper, Scissors Game
+# Rock, Paper, Scissors Game
 
 This is a simple command-line implementation of the classic game "Rock, Paper, Scissors" in Python.
 Features
